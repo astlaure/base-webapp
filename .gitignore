@@ -1,0 +1,17 @@
+.idea
+.vscode
+
+node_modules
+
+bin
+dist
+public/css
+public/js
+storage/coverages/*
+!storage/coverages/.gitkeep
+storage/logs/*
+!storage/logs/.gitkeep
+storage/uploads/*
+!storage/uploads/.gitkeep
+
+.env
